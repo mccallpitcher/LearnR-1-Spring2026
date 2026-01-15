@@ -1,2 +1,7 @@
-# LearnR-1-Spring2026
-Learn R: Introduction to RStudio, Importing Data, and Running Code
+**Link to slides:** https://mccall-pitcher.quarto.pub/learnr-1-spring2026/#/title-slide
+<br>
+<br>
+**Step 1:** Download materials as a zip file by clicking the green "Code" button, then "Download ZIP"
+<br>
+**Step 2:** Unzip the folder and save it somewhere you'll remember in your files
+<br>
